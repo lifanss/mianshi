@@ -4,7 +4,10 @@ public class Hello {
 		System.out.println("aaaaaa");
 		System.out.println("bbbbbb");
 		System.out.println("cccccc");
+<<<<<<< HEAD
 		System.out.println("ffffffff");
+=======
+>>>>>>> branch 'master' of https://github.com/lifanss/mianshi.git
 		System.out.println("bbbbbbb");
 	}
 }
