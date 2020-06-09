@@ -4,5 +4,6 @@ public class Hello {
 		System.out.println("aaaaaa");
 		System.out.println("bbbbbb");
 		System.out.println("cccccc");
+		System.out.println("bbbbbbb");
 	}
 }
